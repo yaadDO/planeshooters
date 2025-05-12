@@ -1,0 +1,2 @@
+C:/Users/Fayyaadh/StudioProjects/planeshooters/android/app/.cxx/Debug/5b5j505q/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Fayyaadh/StudioProjects/planeshooters/android/app/.cxx/Debug/5b5j505q/x86_64/CMakeFiles/rebuild_cache.dir
